@@ -1,0 +1,23 @@
+{
+  "name": "three-js-practice-2",
+  "version": "1.0.0",
+  "description": "three js dragging cubes",
+  "main": "index.js",
+  "dependencies": {
+    "simple-server": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabystern/threejs-dragging-cubes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabystern/threejs-dragging-cubes/issues"
+  },
+  "homepage": "https://github.com/gabystern/threejs-dragging-cubes#readme"
+}
